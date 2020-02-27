@@ -1,0 +1,4 @@
+Banana,Vinho,Alface,Maca,Cerveja
+Cerveja,Carne,Maca,Vinho
+Cerveja,Banana,Camarao,Iogurte
+
