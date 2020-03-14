@@ -3,6 +3,11 @@ from igraph import Graph
 from igraph import plot
 
 
+'''
+Em caso de duvida de instalacao dos pacotes =  
+https://github.com/cleano01/Curso-Livro-BigData-I.A-DeepLearning/commit/7513ff5e442b37aec8f2dbfb5dbb15d660f9cba6
+'''
+
 #configuracao para exebir o grafo
 cfg = Configuration.instance()
 cfg["apps.eog"] = "start"
