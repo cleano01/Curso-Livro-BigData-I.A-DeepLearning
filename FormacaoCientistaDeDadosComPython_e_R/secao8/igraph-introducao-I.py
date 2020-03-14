@@ -1,7 +1,7 @@
 from igraph import Configuration
 from igraph import Graph
 from igraph import plot
-#import cairo
+
 
 #configuracao para exebir o grafo
 cfg = Configuration.instance()
