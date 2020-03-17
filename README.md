@@ -1,6 +1,6 @@
-# Cursos-BigData-I.A-DeepLearning
+# Cursos-Livro-BigData-I.A-DeepLearning
 
-#### Link dos cursos
+#### Link dos cursos/livros
 -----------------
 ::
 
